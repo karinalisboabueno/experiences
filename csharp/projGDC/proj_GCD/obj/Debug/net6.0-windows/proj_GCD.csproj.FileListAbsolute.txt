@@ -1,0 +1,216 @@
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.exe
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.deps.json
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.runtimeconfig.json
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\ref\proj_GCD.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.pdb
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.AssemblyReference.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form1.resources
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.GenerateResource.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.GeneratedMSBuildEditorConfig.editorconfig
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfoInputs.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfo.cs
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CoreCompileInputs.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CopyComplete
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\ref\proj_GCD.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.pdb
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.genruntimeconfig.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.exe
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.deps.json
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.runtimeconfig.json
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\ref\proj_GCD.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.pdb
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.AssemblyReference.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form1.resources
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form2.resources
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.GenerateResource.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.GeneratedMSBuildEditorConfig.editorconfig
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfoInputs.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfo.cs
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CoreCompileInputs.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CopyComplete
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\ref\proj_GCD.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.pdb
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.genruntimeconfig.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form2.resources
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.exe
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.deps.json
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.runtimeconfig.json
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.AssemblyReference.cache
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form1.resources
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form2.resources
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.GenerateResource.cache
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfoInputs.cache
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfo.cs
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CopyComplete
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Karina\Documents\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.genruntimeconfig.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.ConfirmaDeleteCliente.resources
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.ConfirmaDeleteCliente.resources
+F:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Properties.Resources.resources
+H:\EFA PROGRAMAÇAO\PJ\UF_21\proj_GCD\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Properties.Resources.resources
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.AssemblyReference.cache
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.ConfirmaDeleteCliente.resources
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form1.resources
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form2.resources
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Properties.Resources.resources
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.GenerateResource.cache
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfoInputs.cache
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfo.cs
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CoreCompileInputs.cache
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.exe
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.deps.json
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.runtimeconfig.json
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CopyComplete
+C:\Users\Formação\Documents\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.genruntimeconfig.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.exe
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.deps.json
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.runtimeconfig.json
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.AssemblyReference.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.ConfirmaDeleteCliente.resources
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form1.resources
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form2.resources
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Properties.Resources.resources
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.GenerateResource.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfoInputs.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfo.cs
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CoreCompileInputs.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CopyComplete
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.genruntimeconfig.cache
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.exe
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.deps.json
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.runtimeconfig.json
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\ref\proj_GCD.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.pdb
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.AssemblyReference.cache
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.ConfirmaDeleteCliente.resources
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form1.resources
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form2.resources
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Properties.Resources.resources
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.GenerateResource.cache
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfoInputs.cache
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfo.cs
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CoreCompileInputs.cache
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CopyComplete
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\ref\proj_GCD.dll
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.pdb
+E:\OneDrive - Instituto do Emprego e Formação Profissional\proj_GCD_copia\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.genruntimeconfig.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.exe
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.deps.json
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.runtimeconfig.json
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.AssemblyReference.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.ConfirmaDeleteCliente.resources
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form1.resources
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form2.resources
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Properties.Resources.resources
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.GenerateResource.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfoInputs.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfo.cs
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CoreCompileInputs.cache
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CopyComplete
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Formação\OneDrive - Instituto do Emprego e Formação Profissional\teste_hoje_proj_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.genruntimeconfig.cache
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.exe
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.deps.json
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.runtimeconfig.json
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.AssemblyReference.cache
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.ConfirmaDeleteCliente.resources
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form1.resources
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Form2.resources
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.FormBDs.resources
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.Properties.Resources.resources
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.GenerateResource.cache
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfoInputs.cache
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.AssemblyInfo.cs
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CoreCompileInputs.cache
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.csproj.CopyComplete
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\ref\proj_GCD.dll
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.pdb
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.genruntimeconfig.cache
+C:\Users\Formação\Documents\03.karina_gdc\proj_GCD\obj\Debug\net6.0-windows\proj_GCD.FormBDs2.resources

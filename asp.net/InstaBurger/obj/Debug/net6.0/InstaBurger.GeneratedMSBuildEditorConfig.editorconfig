@@ -1,0 +1,136 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InstaBurger
+build_property.RootNamespace = InstaBurger
+build_property.ProjectDir = F:\EFA PROGRAMAÇAO\PJ\UF_26\Projeto_andamento\InstaBurger\InstaBurger\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\EFA PROGRAMAÇAO\PJ\UF_26\Projeto_andamento\InstaBurger\InstaBurger
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Categorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/FiltraCategoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdHJhQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Lanches/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Lanches/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Lanches/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Lanches/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Lanches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/LancheUtilizadorComum/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlVXRpbGl6YWRvckNvbXVtXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/LancheUtilizadorComum/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlVXRpbGl6YWRvckNvbXVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/PedidoDetalhes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvRGV0YWxoZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/PedidoDetalhes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvRGV0YWxoZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/PedidoDetalhes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvRGV0YWxoZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/PedidoDetalhes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvRGV0YWxoZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/PedidoDetalhes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvRGV0YWxoZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Pedidoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Pedidoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Pedidoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Pedidoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Pedidoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Shared/_Carrousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJyb3VzZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/EFA PROGRAMAÇAO/PJ/UF_26/Projeto_andamento/InstaBurger/InstaBurger/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8qryuatze9

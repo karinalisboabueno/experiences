@@ -1,0 +1,153 @@
+﻿@model IEnumerable<GestorDeTempos.Models.ViewModelRelatorio>
+
+
+
+<h2>Relatório das Tarefas</h2>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-6">
+
+
+
+            <form>
+
+
+                <div class="row">
+
+
+                    <div class="form-group col-2">
+                        <label for="minDate">Data Inicio</label>
+                        <input type="date" class="form-control" name="minDate" value=@ViewData["minDate"] />
+                    </div>
+                    <div class="form-group col-2">
+                        <label for="maxDate">Data Final</label>
+                        <input type="date" class="form-control" name="maxDate" value=@ViewData["maxDate"] />
+                    </div>
+                    <div class="form-group col-2">
+                        <label for="Idfuncionario">Funcionário</label>
+                        @Html.DropDownList("Idfuncionario", (SelectList)ViewBag.FUNCIONARIO,"TODOS",  new{@class="btn btn-secondary dropdown-toggle"})
+
+                    </div>
+                    <div class="form-group col-2">
+                        <label for="Idcliente">Cliente</label>
+                        @Html.DropDownList("Idcliente", (SelectList)ViewBag.CLIENTE, "TODOS", new{@class="btn btn-secondary dropdown-toggle"})
+                    </div>
+                    <div class="form-group col-2">
+                        <br />
+                        <button type="submit" class="btn btn-primary">Filtrar</button>
+                    </div>
+
+                </div>
+                <br />
+
+            </form>
+            <div class="panel panel-primary">
+
+                <div class="panel-body">
+                    <table class="table table-striped table-hover">
+                        <thead>
+                            <tr class="success">
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Tarefa.DataRegisto)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Tarefa.Descricao)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Tarefa.Categoria)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Tarefa.Funcionario)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Tarefa.Cliente)
+                                </th>
+                                <th>
+                                    Tempo Total Gasto
+                                </th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Tarefa.DataRegisto)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Tarefa.Descricao)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Tarefa.Categoria.Designacao)
+                                    </td>
+
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Tarefa.Funcionario.Nome)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Tarefa.Cliente.Nome)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Tempo)
+                                    </td>
+
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Regressar</a>
+            </div>
+        </div>
+
+        <script>
+
+                      const labels = (@Html.Raw(@ViewBag.FUNCIONARIOS_JSON)).map(_l=>_l.Text);
+                      const tarefas =(@Html.Raw(@ViewBag.TAREFAS_JSON));
+
+                      const data = {
+                        labels: labels,
+                        datasets: [{
+                          label: 'Tempo das tarefas',
+                          backgroundColor:['rgb(255, 99, 132)','rgb(255, 159, 64)', 'rgb(155, 159, 164)', 'rgb(225, 259, 264)'],
+                          data: labels.map(_k=>{
+                                let total = 0;
+                                tarefas.forEach(_t=>{if(_t.Tarefa.Funcionario.Nome===_k){
+                                    total=total+_t.TempoEmMin
+                                }})
+                            return total;
+                            }),
+                        }]
+                      };
+
+                      const config = {
+                        type: 'bar',
+                        data: data,
+                        options: {}
+                      };
+
+        </script>
+
+
+
+
+        <div class="col-6">
+            <div>
+                <canvas id="myChart"></canvas>
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+
+<script>
+     const myChart = new Chart(
+      document.getElementById('myChart'),
+      config
+    );
+</script>
+

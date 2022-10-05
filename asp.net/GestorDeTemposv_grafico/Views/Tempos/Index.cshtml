@@ -1,0 +1,67 @@
+﻿@model IEnumerable<GestorDeTempos.Models.Tempo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <section id="sobre">
+        <div class="row justify-content-center">
+            <div>
+                <h1 id="titulo">Tempos</h1>
+                <p> <a asp-action="Create" asp-route-id="@ViewBag.ID">Adicionar Tempo em Minutos</a> </p>
+            </div>
+            @*   <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <h2 id=descricao> @ViewBag.DESCRICAOTAREFA</h2>
+                </div>*@
+        </div>
+    </section>
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TempoemMin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tarefa)
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TempoemMin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tarefa.Descricao)
+                </td>
+
+                <td></td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Editar</a> 
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Detalhes</a> 
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Deletar</a>
+                </td>
+
+            </tr>
+        }
+        <tr>
+            <td style="font-weight:bold; color:#2c6034">Tempo Total em minutos: @ViewBag.MINUTO</td>
+            <td style="font-weight:bold; color:#2c6034">Tempo Total em horas: @ViewBag.HORA</td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </tbody>
+</table>
+<div>
+    @* <a asp-action="Index">Voltar</a>*@
+
+    <a asp-controller="Tarefas" asp-action="Index" class="btn btn-secondary">Regressar</a>
+</div>

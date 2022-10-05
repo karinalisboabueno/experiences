@@ -1,0 +1,41 @@
+﻿@model IEnumerable<GestorDeTempos.Models.Utilizador>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Utilizadores</h1>
+
+<p>
+    <a asp-action="Create">Adicionar Novo</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UtilizadorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Senha)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UtilizadorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Senha)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Editar</a> 
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Detalhes</a> 
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Remover</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

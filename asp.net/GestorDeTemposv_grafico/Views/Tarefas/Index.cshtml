@@ -1,0 +1,67 @@
+﻿@model IEnumerable<GestorDeTempos.Models.Tarefa>
+@*@model GestorDeTempos.ViewModels.TarefaComTempoViewModel*@
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Tarefas</h1>
+
+<p>
+    <a asp-action="Create">Adicionar Tarefa</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th >
+                @Html.DisplayNameFor(model => model.DataRegisto)
+            </th>
+            <th >
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            
+            <th >
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th >
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th >
+                @Html.DisplayNameFor(model => model.Funcionario)
+            </th>
+            <th ></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataRegisto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Categoria.Designacao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cliente.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Funcionario.Nome)
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Editar</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Detalhes</a>
+                    @Html.ActionLink("Adicionar Tempo", "Index","Tempos", new {id= item.Id}, new { @class = "btn btn-sm btn-primary" })
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@* @Html.ActionLink("Regressar", "Index","Home", new{@class="btn btn-secondary"})*@
+<a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Regressar</a>

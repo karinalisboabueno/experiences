@@ -1,0 +1,61 @@
+﻿@model IEnumerable<InstaBurger.Models.Lanche>
+
+
+@using (Html.BeginForm())
+{
+        <div class="container">
+        <section id="sobre">
+          <div class="row justify-content-center">
+                <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                    @Html.DropDownList("codCat", (SelectList)ViewBag.CATEGORIAS,"TODOS", @htmlAttributes: new { @onchange = "this.form.submit();" })
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                    <label style="font-weight:bold">Preferido @Html.CheckBox("preferido")  &nbsp; </label>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <label style="font-weight:bold">EmEstoque @Html.RadioButton("emStock","sim") &nbsp </label>
+                   <label style="font-weight:bold">Sem Estoque @Html.RadioButton("emStock","nao")</label>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                    <input type="hidden" value="0" name="idLanche" />
+                  <input type="submit" value="Filtrar" class="btn btn-warning" />
+                </div>
+            </div>
+        </section>
+        </div>
+
+}
+
+
+<hr />
+
+<table class="table">
+    <tr>
+        <th>@Html.DisplayNameFor(model=> model.Nome)</th>
+        <th>@Html.DisplayNameFor(model=> model.DescricaoCurta)</th>
+        <th>@Html.DisplayNameFor(model=> model.Preco)</th>
+        <th>@Html.DisplayNameFor(model=> model.IsLanchePreferido)</th>
+        <th>@Html.DisplayNameFor(model=> model.EmEstoque)</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+            <tr class="@(ViewBag.LANCHECLICADO !=null && item.LancheId==ViewBag.LANCHECLICADO["lancheId"] ? "table-success" : "")">
+                <td>@Html.ActionLink(item.Nome,"Index", new {idLanche=item.LancheId, codCat=ViewBag.codCat})</td>
+                <td>@Html.DisplayFor(modelItem=> item.DescricaoCurta)</td>
+                <td>@Html.DisplayFor(modelItem=> item.Preco) € </td>
+                <td>@Html.DisplayFor(modelItem=> item.IsLanchePreferido)</td>
+                <td>@Html.DisplayFor(modelItem=> item.EmEstoque)</td>
+
+            </tr>
+    }
+</table>
+
+@if (ViewBag.LANCHECLICADO != null)
+{
+      <p>Quantidade Vendida: @ViewBag.LANCHECLICADO["quantidade"]  </p>
+      <p>Preço total: @ViewBag.LANCHECLICADO["preco"]  </p>
+}
+
+

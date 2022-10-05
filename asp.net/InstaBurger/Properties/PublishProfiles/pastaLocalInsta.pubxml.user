@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Formação\Desktop\instaBurger</_PublishTargetUrl>
+    <History>True|2022-06-28T08:09:59.7339599Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Casa">
+      <Value>Server=DESKTOP-A077TH4\SQLEXPRESS4%3bDatabase=BDInstaBurger%3buser=sa%3bpassword=123.Abc+%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="Remota">
+      <Value>Server=DESKTOP-A077TH4\SQLEXPRESS4%3bDatabase=BDInstaBurger%3buser=sa%3bpassword=123.Abc+%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

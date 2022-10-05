@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+
+    #direita {
+        position: absolute;
+        top: 100px;
+        left: 20%;
+        width: 560px;
+        padding: 200px;
+        margin-left: 700px;
+    }
+
+    #texto {
+     padding:50px;
+     margin-left:250px;
+     color:#605a5d;
+     
+    }
+
+
+    body {
+        background-image: url(Images/icons8-team-dhZtNlvNE8M-unsplash.jpg);
+        background-attachment:fixed;
+        background-size: cover;
+    }
+
+    
+
+</style>
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Seja Bem Vindo</title>
+</head>
+<body>
+    <div id="texto">
+        <h1>Gestor de Tempos: O Software feito para você!</h1>
+        <h5>Comece a registar o tempo que você gasta nas tarefas e projetos para aumentar sua produtividade.  </h5>
+           
+      
+        
+    </div>
+
+    <div id="direita">
+        <div class="d-grid gap-2 col-6">
+        <a class="btn btn-primary" asp-controller="Tarefas" asp-action="Index" role="button">Tarefas</a>
+         <br />
+        <br />
+        <a class="btn btn-primary" asp-controller="Categorias" asp-action="Index" role="button">Categorias</a>
+        <br />
+        <br />
+        <a class="btn btn-primary" asp-controller="Funcionarios" asp-action="Index" role="button">Funcionários</a>
+        <br />
+        <br />
+        <a class="btn btn-primary" asp-controller="Clientes" asp-action="Index" role="button">Clientes</a>
+        </div>
+        @*  <ul>
+            <li> <a asp-controller="Tarefas" asp-action="Index"><h4>Tarefas</h4></a> </li>
+            <br />
+            <li><a asp-controller="Categorias" asp-action="Index"><h4>Categorias</h4></a></li>
+            <br />
+            <li><a asp-controller="Funcionarios" asp-action="Index"><h4>Funcionários</h4></a></li>
+            <br />
+            <li><a asp-controller="Clientes" asp-action="Index"><h4>Clientes</h4></a></li>
+
+            </ul>*@
+    </div>
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<InstaBurger.Models.PedidoDetalhe>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Detalhes do Pedido</h1>
+
+<p>
+    <a asp-action="Create">Adicionar Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lanche)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pedido)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Preco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lanche.LancheId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pedido.PedidoId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PedidoDetalheId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.PedidoDetalheId">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.PedidoDetalheId">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

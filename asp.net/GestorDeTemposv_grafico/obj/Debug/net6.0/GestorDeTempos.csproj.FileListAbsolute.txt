@@ -1,0 +1,1334 @@
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\appsettings.json
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.staticwebassets.runtime.json
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.exe
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.deps.json
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.runtimeconfig.json
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.pdb
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.AssemblyReference.cache
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.AssemblyInfoInputs.cache
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.AssemblyInfo.cs
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.CoreCompileInputs.cache
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cache
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cs
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\scopedcss\bundle\GestorDeTempos.styles.css
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\scopedcss\projectbundle\GestorDeTempos.bundle.scp.css
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.CopyComplete
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.dll
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\refint\GestorDeTempos.dll
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.pdb
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.genruntimeconfig.cache
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\ref\GestorDeTempos.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Formação\source\repos\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Formação\source\repos\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cs
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\appsettings.Development.json
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\appsettings.json
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.staticwebassets.runtime.json
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.exe
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.deps.json
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.runtimeconfig.json
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.pdb
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Humanizer.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\MessagePack.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\MessagePack.Annotations.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Common.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Configuration.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Frameworks.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.LibraryModel.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Packaging.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.ProjectModel.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Protocol.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Versioning.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Convention.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Hosting.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Runtime.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.TypedParts.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.AssemblyReference.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.GeneratedMSBuildEditorConfig.editorconfig
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.AssemblyInfoInputs.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.AssemblyInfo.cs
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.CoreCompileInputs.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cs
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cs
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\staticwebassets.build.json
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\staticwebassets.development.json
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\bundle\GestorDeTempos.styles.css
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\projectbundle\GestorDeTempos.bundle.scp.css
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.CopyComplete
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\refint\GestorDeTempos.dll
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.pdb
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.genruntimeconfig.cache
+H:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\ref\GestorDeTempos.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\appsettings.Development.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\appsettings.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.staticwebassets.runtime.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.exe
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.deps.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.runtimeconfig.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.pdb
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Humanizer.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\MessagePack.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Common.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.AssemblyReference.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.GeneratedMSBuildEditorConfig.editorconfig
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.AssemblyInfoInputs.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.AssemblyInfo.cs
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.CoreCompileInputs.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cs
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cs
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\staticwebassets.build.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\staticwebassets.development.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\bundle\GestorDeTempos.styles.css
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\projectbundle\GestorDeTempos.bundle.scp.css
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.CopyComplete
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\refint\GestorDeTempos.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.pdb
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.genruntimeconfig.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\ref\GestorDeTempos.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\appsettings.json
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.staticwebassets.runtime.json
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.exe
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.deps.json
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.runtimeconfig.json
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\GestorDeTempos.pdb
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.AssemblyReference.cache
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.AssemblyInfoInputs.cache
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.AssemblyInfo.cs
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cache
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cs
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\bundle\GestorDeTempos.styles.css
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\scopedcss\projectbundle\GestorDeTempos.bundle.scp.css
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.csproj.CopyComplete
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\refint\GestorDeTempos.dll
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.pdb
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\GestorDeTempos.genruntimeconfig.cache
+C:\Users\Karina\Documents\UF_B6_ProjetoFinal\GestorDeTempos\obj\Debug\net6.0\ref\GestorDeTempos.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\appsettings.Development.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\appsettings.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\GestorDeTempos.staticwebassets.runtime.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\GestorDeTempos.exe
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\GestorDeTempos.deps.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\GestorDeTempos.runtimeconfig.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\GestorDeTempos.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\GestorDeTempos.pdb
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Humanizer.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\MessagePack.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.Common.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.csproj.AssemblyReference.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.GeneratedMSBuildEditorConfig.editorconfig
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.AssemblyInfoInputs.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.AssemblyInfo.cs
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.csproj.CoreCompileInputs.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cs
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.MvcApplicationPartsAssemblyInfo.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.RazorAssemblyInfo.cs
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\staticwebassets.build.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\staticwebassets.development.json
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\scopedcss\bundle\GestorDeTempos.styles.css
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\scopedcss\projectbundle\GestorDeTempos.bundle.scp.css
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.csproj.CopyComplete
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\refint\GestorDeTempos.dll
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.pdb
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\GestorDeTempos.genruntimeconfig.cache
+F:\EFA PROGRAMAÇAO\PJ\UF_B6_ProjetoFinal\GestorDeTemposv_grafico\obj\Debug\net6.0\ref\GestorDeTempos.dll
